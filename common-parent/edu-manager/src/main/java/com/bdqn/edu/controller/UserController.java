@@ -41,6 +41,11 @@ public class UserController {
     @RequestMapping("update")
     public String update(){
 
+
+        //这里书写内容更新以后的内容
+
+
+
         return  "user/update";
     }
 
